@@ -9,7 +9,7 @@
 
 &nbsp;
 ## Используемые языки, технологии, пакеты:
--	React JS (Hooks), HTML, SCCS
+-	React JS (Hooks), HTML, SCSS
 - Create-react-app, Axios
 
 &nbsp;
